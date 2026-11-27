@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/heurica/.github/main/assets/heurica-mark.svg" width="96" alt="Heurica">
+<img src="https://raw.githubusercontent.com/heurica/.github/refs/heads/main/assets/heurica-mark.svg" width="96" alt="Heurica">
 
 # Heurica
 
