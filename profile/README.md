@@ -6,8 +6,11 @@
 
 **We build tools that make AI do real work.**
 
-Our code lives at **[github.com/heurica-labs](https://github.com/heurica-labs)**. Start with [Anvil](https://github.com/heurica-labs/anvil), the coding agent that gets there first.
+Our code lives at **[github.com/heurica-labs](https://github.com/heurica-labs)**.
 
-[heurica.dev](https://heurica.dev)
+[Website](https://heurica.dev) · [Anvil](https://github.com/heurica-labs/anvil) · [TAP](https://github.com/heurica-labs/tap)
 
 </div>
+
+- **[Anvil](https://github.com/heurica-labs/anvil)**: the coding agent that gets there first.
+- **[TAP](https://github.com/heurica-labs/tap)**: the Text Action Protocol, tool use for any model in plain text.
